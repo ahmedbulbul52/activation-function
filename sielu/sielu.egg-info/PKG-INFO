@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: sielu
+Version: 1.0.0
+Summary: An activation function
+Home-page: UNKNOWN
+Author: Bulbul Ahmed
+Author-email: ahmedbulbul52@gmail.com
+License: MIT
+Description: This is an activation function can be used in deep learning model development.
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (17/10/2021)
+        -------------------
+        - First Release
+        
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
